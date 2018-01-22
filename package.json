@@ -1,6 +1,6 @@
 {
   "name": "@sphinx-software/fusion-oauth",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Open authenticator for Sphinx-software Fusion",
   "main": "index.js",
   "scripts": {
